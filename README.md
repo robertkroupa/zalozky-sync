@@ -1,0 +1,1 @@
+# zalozky-sync
