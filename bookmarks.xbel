@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8161: for Floccus bookmark sync browser extension -->
+<!--- highestId :8162: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -16,30 +16,36 @@
     <bookmark href="https://tasks.google.com/tasks/" id="16">
       <title>Ú</title>
     </bookmark>
-    <bookmark href="https://mail.google.com/mail/u/0/#inbox?compose=new" id="17">
-      <title>Nový Gmail</title>
-    </bookmark>
-    <bookmark href="https://outlook.office.com/mail/id/AAkALgAAAAAAHYQDEapmEc2byACqAC%2FEWg0A5cTecRjfl0qqBsKPlTsdvQAJIFRdvwAA" id="9">
-      <title>Pošta – Kroupa Robert Ing. DiS. – Outlook</title>
-    </bookmark>
-    <bookmark href="https://mail.google.com/mail/u/0/" id="46">
-      <title>Mail</title>
+    <bookmark href="https://keep.google.com/u/0/" id="24">
+      <title>K</title>
     </bookmark>
     <folder id="8161">
       <title>E-maily</title>
+      <bookmark href="https://mail.google.com/mail/u/0/" id="46">
+        <title>Mail</title>
+      </bookmark>
+      <bookmark href="https://mail.google.com/mail/u/0/#inbox?compose=new" id="17">
+        <title>Nový Gmail</title>
+      </bookmark>
+      <bookmark href="https://outlook.office.com/mail/id/AAkALgAAAAAAHYQDEapmEc2byACqAC%2FEWg0A5cTecRjfl0qqBsKPlTsdvQAJIFRdvwAA" id="9">
+        <title>Pošta – Kroupa Robert Ing. DiS. – Outlook</title>
+      </bookmark>
     </folder>
-    <bookmark href="https://gemini.google.com/gem/1ee023596250/dfadf1d146970044" id="18">
-      <title>Gemini</title>
-    </bookmark>
-    <bookmark href="https://claude.ai/" id="43">
-      <title>Claude</title>
-    </bookmark>
-    <bookmark href="https://aistudio.google.com/" id="19">
-      <title>Google AI Studio</title>
-    </bookmark>
-    <bookmark href="https://notebooklm.google.com/?original_referer=https%3A%2F%2Fnotebooklm.google%23&amp;pli=1" id="20">
-      <title>NotebookLM</title>
-    </bookmark>
+    <folder id="8162">
+      <title>AI</title>
+      <bookmark href="https://claude.ai/" id="43">
+        <title>Claude</title>
+      </bookmark>
+      <bookmark href="https://gemini.google.com/gem/1ee023596250/dfadf1d146970044" id="18">
+        <title>Gemini</title>
+      </bookmark>
+      <bookmark href="https://aistudio.google.com/" id="19">
+        <title>Google AI Studio</title>
+      </bookmark>
+      <bookmark href="https://notebooklm.google.com/?original_referer=https%3A%2F%2Fnotebooklm.google%23&amp;pli=1" id="20">
+        <title>NotebookLM</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://www.google.com/finance/beta" id="21">
       <title>Google Finance</title>
     </bookmark>
@@ -48,9 +54,6 @@
     </bookmark>
     <bookmark href="https://www.google.cz/maps/dir/49.216981924304044,+14.026967460031875//@49.2428852,13.8439702,10.44z/data=!4m7!4m6!1m3!2m2!1d14.0269675!2d49.2169819!1m0!3e0" id="23">
       <title>Mapy Google z Cehnic</title>
-    </bookmark>
-    <bookmark href="https://keep.google.com/u/0/" id="24">
-      <title>K</title>
     </bookmark>
     <bookmark href="https://drive.google.com/drive/u/0/starred" id="25">
       <title>GDisk</title>
