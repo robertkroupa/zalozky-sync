@@ -115,9 +115,6 @@
     <bookmark href="https://speedtest.cesnet.cz/" id="55">
       <title>CESNET speedtest</title>
     </bookmark>
-    <bookmark href="http://10.0.0.201:9000/" id="56">
-      <title>Portainer | local</title>
-    </bookmark>
     <bookmark href="https://dash.cloudflare.com/697c0326fd0e62dd80e4431c0e97d24a/one/networks/connectors/cloudflare-tunnels/cloudflared/95d2dcdb-2d13-4315-8f07-f5eb7a819035/edit" id="57">
       <title>Cehnice</title>
     </bookmark>
@@ -167,9 +164,6 @@
   <bookmark href="https://synocommunity.com/package/syncthing" id="41">
     <title>Syncthing Package - SynoCommunity</title>
   </bookmark>
-  <folder id="42">
-    <title>Proxmox</title>
-  </folder>
   <bookmark href="https://claude.ai/" id="43">
     <title>Claude</title>
   </bookmark>
@@ -178,9 +172,6 @@
     <bookmark href="https://t.me/zabbix_czechia" id="62">
       <title>Telegram: View @zabbix_czechia</title>
     </bookmark>
-  </folder>
-  <folder id="63">
-    <title>Koupit</title>
   </folder>
   <bookmark href="https://colamyhome.eu/products/atlas-executive-ergonomic-office-chair" id="64">
     <title>COLAMY ATLAS Executive Ergonomic Office Chair</title>
@@ -409,9 +400,6 @@
   </bookmark>
   <bookmark href="https://www.podnikatel.cz/clanky/jak-zacit-tvorit-obsah-na-socialni-site-prakticky-navod-pro-zacinajici-tvurce/?utm_source=newsletter-html-w&amp;utm_medium=text&amp;utm_campaign=2026-08-02" id="138">
     <title>Jak začít tvořit obsah na sociální sítě: praktický návod pro začínající tvůrce - Podnikatel.cz</title>
-  </bookmark>
-  <bookmark href="https://www.printables.com/model/1084432-ikea-skadis-usb-cable-hook" id="139">
-    <title>Ikea Skadis USB-Cable Hook by Alex Parker | Download free STL model | Printables.com</title>
   </bookmark>
   <bookmark href="https://www.printables.com/model/1160944-reprack-for-ikea-skadis-16mm" id="140">
     <title>reprack for ikea skadis 16mm by alex smit | Download free STL model | Printables.com</title>
@@ -13356,9 +13344,6 @@
       <bookmark href="https://juraj.bednar.io/blog/" id="5370">
         <title>Blog – Juraj Bednar</title>
       </bookmark>
-      <bookmark href="https://synocommunity.com/package/syncthing" id="5443">
-        <title>SynoCommunity</title>
-      </bookmark>
       <bookmark href="https://www.pcmag.com/picks/the-best-password-managers-for-businesses" id="5468">
         <title>The Best Business Password Managers for 2024 | PCMag</title>
       </bookmark>
@@ -17493,9 +17478,6 @@
     </bookmark>
     <bookmark href="http://www.jiripavlas.cz/" id="5063">
       <title>Jiří Pavlas - Webový grafik a designér</title>
-    </bookmark>
-    <bookmark href="https://www.atlassian.com/software/jira" id="5080">
-      <title>JIRA Software - Issue &amp; Project Tracking for Software Teams | Atlassian</title>
     </bookmark>
     <bookmark href="http://kalistenika.cz/" id="5101">
       <title>Kalistenika.cz</title>
