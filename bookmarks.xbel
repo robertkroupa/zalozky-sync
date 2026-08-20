@@ -5,14 +5,11 @@
 
 <folder id="1">
   <title>Bookmarks Bar</title>
-  <bookmark href="https://start.robertkroupa.cz/" id="4">
-    <title>S&gt;</title>
+  <bookmark href="https://ticktick.com/signin" id="6">
+    <title>T</title>
   </bookmark>
   <bookmark href="chrome://bookmarks/" id="5">
     <title>Záložky</title>
-  </bookmark>
-  <bookmark href="https://ticktick.com/signin" id="6">
-    <title>T</title>
   </bookmark>
   <folder id="7">
     <title>Kancelář</title>
@@ -78,6 +75,9 @@
     </bookmark>
     <bookmark href="https://www.atlassian.com/software/jira" id="67">
       <title>Jira | Project Management for the AI Era | Atlassian</title>
+    </bookmark>
+    <bookmark href="https://claude.ai/" id="43">
+      <title>Claude</title>
     </bookmark>
   </folder>
   <folder id="8">
@@ -166,9 +166,6 @@
   </bookmark>
   <bookmark href="https://synocommunity.com/package/syncthing" id="41">
     <title>Syncthing Package - SynoCommunity</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="43">
-    <title>Claude</title>
   </bookmark>
   <folder id="44">
     <title>Zabbix</title>
@@ -24451,6 +24448,9 @@
   </bookmark>
   <bookmark href="https://passwd.hostux.net/#/login" id="1892">
     <title>Vaultwarden Web</title>
+  </bookmark>
+  <bookmark href="https://start.robertkroupa.cz/" id="4">
+    <title>S&gt;</title>
   </bookmark>
 </folder>
 <folder id="2">
