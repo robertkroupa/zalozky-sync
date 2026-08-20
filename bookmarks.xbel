@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8159: for Floccus bookmark sync browser extension -->
+<!--- highestId :8160: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -152,9 +152,12 @@
   <bookmark href="https://www.youtube.com/watch?v=TLtl1rTZBX0" id="12">
     <title>Energie na 20 000 let. Proč jsme to 50 let ignorovali? - YouTube</title>
   </bookmark>
-  <bookmark href="https://github.com/topics/spotify-adblocker" id="13">
-    <title>spotify-adblocker · GitHub Topics · GitHub</title>
-  </bookmark>
+  <folder id="8160">
+    <title>Blokovani</title>
+    <bookmark href="https://github.com/topics/spotify-adblocker" id="13">
+      <title>spotify-adblocker · GitHub Topics · GitHub</title>
+    </bookmark>
+  </folder>
   <bookmark href="https://embarkstudios.bandcamp.com/album/arc-raiders-original-video-game-soundtrack" id="39">
     <title>ARC Raiders (Original Video Game Soundtrack) | Patrik Andrén, Johan Söderqvist &amp; Embark Studios | Embark Studios</title>
   </bookmark>
