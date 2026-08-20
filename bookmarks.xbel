@@ -19,6 +19,9 @@
     <bookmark href="https://mail.google.com/mail/u/0/#inbox?compose=new" id="17">
       <title>Nový Gmail</title>
     </bookmark>
+    <bookmark href="https://outlook.office.com/mail/id/AAkALgAAAAAAHYQDEapmEc2byACqAC%2FEWg0A5cTecRjfl0qqBsKPlTsdvQAJIFRdvwAA" id="9">
+      <title>Pošta – Kroupa Robert Ing. DiS. – Outlook</title>
+    </bookmark>
     <bookmark href="https://gemini.google.com/gem/1ee023596250/dfadf1d146970044" id="18">
       <title>Gemini</title>
     </bookmark>
@@ -131,11 +134,8 @@
       <title>Access via Synology</title>
     </bookmark>
   </folder>
-  <bookmark href="https://outlook.office.com/mail/id/AAkALgAAAAAAHYQDEapmEc2byACqAC%2FEWg0A5cTecRjfl0qqBsKPlTsdvQAJIFRdvwAA" id="9">
-    <title>Pošta – Kroupa Robert Ing. DiS. – Outlook</title>
-  </bookmark>
   <folder id="10">
-    <title>Wordpress</title>
+    <title>WP26</title>
     <bookmark href="https://wordpress.org/plugins/two-factor/" id="36">
       <title>Two Factor – WordPress plugin | WordPress.org</title>
     </bookmark>
