@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8167: for Floccus bookmark sync browser extension -->
+<!--- highestId :8168: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -24467,6 +24467,9 @@
       <title>Jira | Project Management for the AI Era | Atlassian</title>
     </bookmark>
   </folder>
+  <bookmark href="https://serialy.bombuj.si/serial/vymena-manzelek-2005-8x7" id="8168">
+    <title>Zámena manželiek - Výměna manželek online seriál | bombuj</title>
+  </bookmark>
 </folder>
 <folder id="3">
   <title>Mobilní záložky</title>
