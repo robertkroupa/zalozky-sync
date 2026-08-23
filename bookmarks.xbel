@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8169: for Floccus bookmark sync browser extension -->
+<!--- highestId :8170: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -82,6 +82,9 @@
   </folder>
   <bookmark href="https://www.youtube.com/watch?v=p4o2wXZwAMU" id="8163">
     <title>Čína: 500 mil. kamer, digitální diktatura i robotická revoluce. Jan Staněk o budoucnosti - YouTube</title>
+  </bookmark>
+  <bookmark href="http://10.0.0.104/zabbix/" id="8170">
+    <title>zabbix_proxmox: Zabbix</title>
   </bookmark>
   <bookmark href="https://serialy.bombuj.si/serial/vymena-manzelek-2005-8x10" id="8169">
     <title>Zámena manželiek - Výměna manželek online seriál | bombuj</title>
