@@ -3,6 +3,9 @@
 <xbel version="1.0">
 <!--- highestId :8167: for Floccus bookmark sync browser extension -->
 
+<folder id="8166">
+  <title>Bookmarks Menu</title>
+</folder>
 <folder id="1">
   <title>Bookmarks Bar</title>
   <bookmark href="https://ticktick.com/signin" id="6">
@@ -24465,9 +24468,6 @@
     </bookmark>
   </folder>
 </folder>
-<folder id="2">
-  <title>Other Bookmarks</title>
-</folder>
 <folder id="3">
   <title>Mobilní záložky</title>
   <bookmark href="https://www.in-pocasi.cz/clanky/aktuality/tropicke-teploty-o-vikendu-dalsi-otepleni-6571/" id="14">
@@ -24477,8 +24477,8 @@
     <title>Troubleshoot login issues with your Atlassian account | Atlassian Support</title>
   </bookmark>
 </folder>
-<folder id="8166">
-  <title>Bookmarks Menu</title>
+<folder id="2">
+  <title>Other Bookmarks</title>
 </folder>
 <folder id="8167">
   <title>Mobile Bookmarks</title>
