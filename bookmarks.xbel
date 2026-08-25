@@ -14,6 +14,174 @@
   <bookmark href="chrome://bookmarks/" id="5">
     <title>Záložky</title>
   </bookmark>
+  <folder id="411">
+    <title>01</title>
+    <bookmark href="https://www.ssp.sh/brain/managing-my-business-with-obsidian/" id="448">
+      <title>Managing My Business with Obsidian (CRM)</title>
+    </bookmark>
+    <bookmark href="https://kisk.phil.muni.cz/onlife/temata/prace-s-dokumenty/rychle-cteni" id="449">
+      <title>Rychlé čtení | ONLIFE</title>
+    </bookmark>
+    <bookmark href="https://www.todoist.com/cs/productivity-methods" id="450">
+      <title>[Kvíz] Která produktivní metoda je pro vás ta pravá? Doporučíme vám ji na míru.</title>
+    </bookmark>
+    <bookmark href="https://www.todoist.com/cs/channelpartners" id="451">
+      <title>Distribuční partneři | Todoist</title>
+    </bookmark>
+    <bookmark href="https://www.sync.com/affiliates/" id="452">
+      <title>Sync | Affiliate, Reseller and Referral Program</title>
+    </bookmark>
+    <folder id="453">
+      <title>Inzeráty na práci</title>
+      <bookmark href="https://www.jobs.cz/rpd/2000541244/?searchId=2b877ffe-b38a-4e74-8f01-1d395eeae547&amp;rps=233" id="509">
+        <title>IT specialista Junior – Jihočeské centrum kybernetické bezpečnosti, s.r.o.</title>
+      </bookmark>
+      <bookmark href="https://www.jobs.cz/rpd/2000541154/?searchId=2b877ffe-b38a-4e74-8f01-1d395eeae547&amp;rps=233" id="510">
+        <title>Architekt kybernetické bezpečnosti – Jihočeské centrum kybernetické bezpečnosti, s.r.o.</title>
+      </bookmark>
+      <bookmark href="https://partnersholdco.jobs.cz/detail-pozice?r=detail&amp;id=2000738260&amp;rps=77" id="511">
+        <title>Bankovní poradce - Partners Banka České Budějovice - Detail pozice | Partners Financial Services, a.s.</title>
+      </bookmark>
+      <bookmark href="https://kdejinde.jobs.cz/detail-pozice?r=detail&amp;id=2000749614&amp;rps=233&amp;impressionId=ebd79289-5f9b-4b27-afe1-785700e3a227#fms" id="512">
+        <title>Detail pozice | ...kde jinde.</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://course.elementsofai.com/cs/" id="454">
+      <title>Bezplatný online kurz - Elements of AI</title>
+    </bookmark>
+    <bookmark href="https://www.lucielenertova.cz/p/kolik-platim-za-ruzne-nastroje-gpt" id="455">
+      <title>Kolik platím za různé nástroje, GPT-4o, datové typy v Pythonu (květen 2024)</title>
+    </bookmark>
+    <bookmark href="https://liberapay.com/" id="456">
+      <title>Liberapay</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=cBm95iCcX2E" id="457">
+      <title>Most USEFUL Obsidian Plugins I Actually Use - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=z4AbijUCoKU" id="655">
+      <title>Give Me 15 Minutes. I&apos;ll Teach You 80% of Obsidian - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=pLQBZ1uYDac" id="656">
+      <title>Planning For 2023 Using Obsidian - YouTube</title>
+    </bookmark>
+    <bookmark href="https://vault.practicalpkm.com/" id="657">
+      <title>Starter Vault - Download Free</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=OqjmgyYvB8U" id="658">
+      <title>8 Obsidian Plugins That I Can&apos;t Live Without - YouTube</title>
+    </bookmark>
+    <bookmark href="https://dupe.cz/" id="659">
+      <title>Dupe - Filmy a Seriály Online</title>
+    </bookmark>
+  </folder>
+  <folder id="163">
+    <title>Kyber</title>
+    <bookmark href="https://www.youtube.com/watch?v=TXakYE7jarg" id="166">
+      <title>Online Kurz Penetračné Testovanie - IP Skenovanie, Nmap, Zenmap, Kali Linux 🕵️ - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=zXDHmzY3ngw" id="167">
+      <title>Passbolt vs Vaultwarden: Which Self-Hosted Password Manager Wins? (2026) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://security.muni.cz/kurzy/zaklady-kyberbezpecnosti" id="168">
+      <title>Základy kyberbezpečnosti | Kyberbezpečnost na MUNI | MUNI ICS</title>
+    </bookmark>
+    <bookmark href="https://security.muni.cz/clanky/infostealery-v-zarizeni-jak-je-poznat-a-co-delat" id="169">
+      <title>Infostealery v zařízení: jak je poznat a co dělat? | Kyberbezpečnost na MUNI | MUNI ICS</title>
+    </bookmark>
+    <bookmark href="https://localhost:8443/app/passwords" id="170">
+      <title>Passbolt | Open source password manager for teams</title>
+    </bookmark>
+    <bookmark href="https://interred.cz/kyberneticka-bezpecnost-vysoka-skola/" id="171">
+      <title>Kybernetická bezpečnost na vysoké škole: studium a uplatnění</title>
+    </bookmark>
+    <bookmark href="https://bitwarden.com/resources/tag/security-perspectives/" id="172">
+      <title>Bitwarden Resources | Bitwarden</title>
+    </bookmark>
+    <bookmark href="https://is.muni.cz/el/1421/podzim2017/VIKMA07/um/8__Infrastruktura_podnikove_site.pdf" id="173">
+      <title>Infrastruktura podnikové sítě - 8__Infrastruktura_podnikove_site.pdf</title>
+    </bookmark>
+    <folder id="174">
+      <title>DRP</title>
+      <bookmark href="https://www.disasterrecoveryplantemplate.org/disaster-recovery-plan/" id="191">
+        <title>Disaster Recovery Plan | Disaster Preparedness | Business Continuity Plan</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://botland.cz/blog/rychly-pruvodce-hotove-kody-28-prikazu-linux-pro-raspberry-pi/" id="175">
+      <title>Rychlý průvodce, hotové kódy - 28 příkazů Linux pro Raspberry Pi - Botland</title>
+    </bookmark>
+    <bookmark href="https://ist.mit.edu/security" id="196">
+      <title>Information Security | Information Systems &amp; Technology</title>
+    </bookmark>
+    <bookmark href="https://osintrack.com/reads/" id="197">
+      <title>The OSINT Rack - Reads</title>
+    </bookmark>
+    <bookmark href="https://bitwarden.com/resources/credential-lifecycle-management/" id="198">
+      <title>The credential lifecycle: Stay ahead to strengthen your security and access management | Bitwarden</title>
+    </bookmark>
+    <bookmark href="https://endoflife.date/tags/device" id="199">
+      <title>Devices | endoflife.date</title>
+    </bookmark>
+    <bookmark href="https://www.cve.org/CVERecord?id=CVE-2014-6271" id="200">
+      <title>CVE Record: CVE-2014-6271</title>
+    </bookmark>
+    <bookmark href="https://app.opencve.io/cve/?q=vaultwarden" id="201">
+      <title>CVEs and Security Vulnerabilities - OpenCVE</title>
+    </bookmark>
+    <bookmark href="https://nvd.nist.gov/vuln/detail/CVE-2014-6271" id="202">
+      <title>NVD - CVE-2014-6271</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/sysadmin/comments/x1v0na/fyi_microsoft_is_saving_bitlocker_keys_from_azure/?tl=cs" id="203">
+      <title>Pro info, Microsoft ukládá Bitlocker klíče z Azure AD registrovaných zařízení - Může to být problém pro BYOD : r/sysadmin</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=EMNm_HL6TLU" id="204">
+      <title>KyberKecy #01 - Od Číny až po CYBULI s Michalem Thimem - YouTube</title>
+    </bookmark>
+    <folder id="226">
+      <title>Certifikáty</title>
+      <bookmark href="https://www.gogetssl.com/reseller-program/" id="245">
+        <title>The best SSL certificate reseller program | GoGetSSL®</title>
+      </bookmark>
+      <bookmark href="https://wiseid.com/" id="246">
+        <title>WISeID – Protect the data and more…</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://deepwiki.com/sseemayer/keepass-rs/3.1-kdbx4-format" id="227">
+      <title>KDBX4 Format | sseemayer/keepass-rs | DeepWiki</title>
+    </bookmark>
+    <bookmark href="https://orangeacademy.cz/clanky/yubico/" id="228">
+      <title>Yubico: Revoluční způsob, jak zabezpečit svá hesla. Jak to funguje?</title>
+    </bookmark>
+    <folder id="229">
+      <title>Privacy</title>
+      <bookmark href="https://privacy.sexy/" id="247">
+        <title>privacy.sexy - Maximize Your Privacy and Security</title>
+      </bookmark>
+      <bookmark href="https://www.pravniprostor.cz/clanky/pravo-it/digitalni-revoluce-prichazi-jak-zmeni-evropska-digitalni-identita-pravidla-hry" id="248">
+        <title>Digitální revoluce přichází – jak změní evropská digitální identita pravidla hry? | Právní prostor</title>
+      </bookmark>
+    </folder>
+    <folder id="230">
+      <title>NUKIB</title>
+      <bookmark href="https://nukib.gov.cz/" id="249">
+        <title>Národní úřad pro kybernetickou a informační bezpečnost - Úvodní stránka</title>
+      </bookmark>
+      <bookmark href="https://nukib.gov.cz/cs/kyberneticka-bezpecnost/" id="250">
+        <title>Národní úřad pro kybernetickou a informační bezpečnost - Kybernetická bezpečnost</title>
+      </bookmark>
+      <bookmark href="https://portal.nukib.gov.cz/informacni-servis/podpurne-materialy" id="251">
+        <title>Podpůrné materiály | Portál NÚKIB</title>
+      </bookmark>
+      <bookmark href="https://osveta.nukib.gov.cz/course/view.php?id=140#section-0" id="252">
+        <title>Pomůcka SENIOR</title>
+      </bookmark>
+    </folder>
+    <folder id="231">
+      <title>Cesnet</title>
+      <bookmark href="https://tcs.cesnet.cz/" id="253">
+        <title>Certifikáty Trusted Certificate Service</title>
+      </bookmark>
+    </folder>
+  </folder>
   <folder id="8">
     <title>Síť doma</title>
     <bookmark href="http://10.0.0.101/" id="26">
@@ -65,6 +233,12 @@
       <title>Access via Synology</title>
     </bookmark>
   </folder>
+  <folder id="44">
+    <title>Zabbix</title>
+    <bookmark href="https://t.me/zabbix_czechia" id="62">
+      <title>Telegram: View @zabbix_czechia</title>
+    </bookmark>
+  </folder>
   <folder id="10">
     <title>WP26</title>
     <bookmark href="https://wordpress.org/plugins/two-factor/" id="36">
@@ -110,12 +284,6 @@
   <bookmark href="https://synocommunity.com/package/syncthing" id="41">
     <title>Syncthing Package - SynoCommunity</title>
   </bookmark>
-  <folder id="44">
-    <title>Zabbix</title>
-    <bookmark href="https://t.me/zabbix_czechia" id="62">
-      <title>Telegram: View @zabbix_czechia</title>
-    </bookmark>
-  </folder>
   <bookmark href="https://colamyhome.eu/products/atlas-executive-ergonomic-office-chair" id="64">
     <title>COLAMY ATLAS Executive Ergonomic Office Chair</title>
   </bookmark>
@@ -404,114 +572,6 @@
   <bookmark href="https://www.master.cz/blog/ransomware-jak-funguje-a-co-delat-abyste-mu-predesli/" id="162">
     <title>Ransomware: Jak funguje a co dělat, abyste mu předešli</title>
   </bookmark>
-  <folder id="163">
-    <title>Kyber</title>
-    <bookmark href="https://www.youtube.com/watch?v=TXakYE7jarg" id="166">
-      <title>Online Kurz Penetračné Testovanie - IP Skenovanie, Nmap, Zenmap, Kali Linux 🕵️ - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=zXDHmzY3ngw" id="167">
-      <title>Passbolt vs Vaultwarden: Which Self-Hosted Password Manager Wins? (2026) - YouTube</title>
-    </bookmark>
-    <bookmark href="https://security.muni.cz/kurzy/zaklady-kyberbezpecnosti" id="168">
-      <title>Základy kyberbezpečnosti | Kyberbezpečnost na MUNI | MUNI ICS</title>
-    </bookmark>
-    <bookmark href="https://security.muni.cz/clanky/infostealery-v-zarizeni-jak-je-poznat-a-co-delat" id="169">
-      <title>Infostealery v zařízení: jak je poznat a co dělat? | Kyberbezpečnost na MUNI | MUNI ICS</title>
-    </bookmark>
-    <bookmark href="https://localhost:8443/app/passwords" id="170">
-      <title>Passbolt | Open source password manager for teams</title>
-    </bookmark>
-    <bookmark href="https://interred.cz/kyberneticka-bezpecnost-vysoka-skola/" id="171">
-      <title>Kybernetická bezpečnost na vysoké škole: studium a uplatnění</title>
-    </bookmark>
-    <bookmark href="https://bitwarden.com/resources/tag/security-perspectives/" id="172">
-      <title>Bitwarden Resources | Bitwarden</title>
-    </bookmark>
-    <bookmark href="https://is.muni.cz/el/1421/podzim2017/VIKMA07/um/8__Infrastruktura_podnikove_site.pdf" id="173">
-      <title>Infrastruktura podnikové sítě - 8__Infrastruktura_podnikove_site.pdf</title>
-    </bookmark>
-    <folder id="174">
-      <title>DRP</title>
-      <bookmark href="https://www.disasterrecoveryplantemplate.org/disaster-recovery-plan/" id="191">
-        <title>Disaster Recovery Plan | Disaster Preparedness | Business Continuity Plan</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://botland.cz/blog/rychly-pruvodce-hotove-kody-28-prikazu-linux-pro-raspberry-pi/" id="175">
-      <title>Rychlý průvodce, hotové kódy - 28 příkazů Linux pro Raspberry Pi - Botland</title>
-    </bookmark>
-    <bookmark href="https://ist.mit.edu/security" id="196">
-      <title>Information Security | Information Systems &amp; Technology</title>
-    </bookmark>
-    <bookmark href="https://osintrack.com/reads/" id="197">
-      <title>The OSINT Rack - Reads</title>
-    </bookmark>
-    <bookmark href="https://bitwarden.com/resources/credential-lifecycle-management/" id="198">
-      <title>The credential lifecycle: Stay ahead to strengthen your security and access management | Bitwarden</title>
-    </bookmark>
-    <bookmark href="https://endoflife.date/tags/device" id="199">
-      <title>Devices | endoflife.date</title>
-    </bookmark>
-    <bookmark href="https://www.cve.org/CVERecord?id=CVE-2014-6271" id="200">
-      <title>CVE Record: CVE-2014-6271</title>
-    </bookmark>
-    <bookmark href="https://app.opencve.io/cve/?q=vaultwarden" id="201">
-      <title>CVEs and Security Vulnerabilities - OpenCVE</title>
-    </bookmark>
-    <bookmark href="https://nvd.nist.gov/vuln/detail/CVE-2014-6271" id="202">
-      <title>NVD - CVE-2014-6271</title>
-    </bookmark>
-    <bookmark href="https://www.reddit.com/r/sysadmin/comments/x1v0na/fyi_microsoft_is_saving_bitlocker_keys_from_azure/?tl=cs" id="203">
-      <title>Pro info, Microsoft ukládá Bitlocker klíče z Azure AD registrovaných zařízení - Může to být problém pro BYOD : r/sysadmin</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=EMNm_HL6TLU" id="204">
-      <title>KyberKecy #01 - Od Číny až po CYBULI s Michalem Thimem - YouTube</title>
-    </bookmark>
-    <folder id="226">
-      <title>Certifikáty</title>
-      <bookmark href="https://www.gogetssl.com/reseller-program/" id="245">
-        <title>The best SSL certificate reseller program | GoGetSSL®</title>
-      </bookmark>
-      <bookmark href="https://wiseid.com/" id="246">
-        <title>WISeID – Protect the data and more…</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://deepwiki.com/sseemayer/keepass-rs/3.1-kdbx4-format" id="227">
-      <title>KDBX4 Format | sseemayer/keepass-rs | DeepWiki</title>
-    </bookmark>
-    <bookmark href="https://orangeacademy.cz/clanky/yubico/" id="228">
-      <title>Yubico: Revoluční způsob, jak zabezpečit svá hesla. Jak to funguje?</title>
-    </bookmark>
-    <folder id="229">
-      <title>Privacy</title>
-      <bookmark href="https://privacy.sexy/" id="247">
-        <title>privacy.sexy - Maximize Your Privacy and Security</title>
-      </bookmark>
-      <bookmark href="https://www.pravniprostor.cz/clanky/pravo-it/digitalni-revoluce-prichazi-jak-zmeni-evropska-digitalni-identita-pravidla-hry" id="248">
-        <title>Digitální revoluce přichází – jak změní evropská digitální identita pravidla hry? | Právní prostor</title>
-      </bookmark>
-    </folder>
-    <folder id="230">
-      <title>NUKIB</title>
-      <bookmark href="https://nukib.gov.cz/" id="249">
-        <title>Národní úřad pro kybernetickou a informační bezpečnost - Úvodní stránka</title>
-      </bookmark>
-      <bookmark href="https://nukib.gov.cz/cs/kyberneticka-bezpecnost/" id="250">
-        <title>Národní úřad pro kybernetickou a informační bezpečnost - Kybernetická bezpečnost</title>
-      </bookmark>
-      <bookmark href="https://portal.nukib.gov.cz/informacni-servis/podpurne-materialy" id="251">
-        <title>Podpůrné materiály | Portál NÚKIB</title>
-      </bookmark>
-      <bookmark href="https://osveta.nukib.gov.cz/course/view.php?id=140#section-0" id="252">
-        <title>Pomůcka SENIOR</title>
-      </bookmark>
-    </folder>
-    <folder id="231">
-      <title>Cesnet</title>
-      <bookmark href="https://tcs.cesnet.cz/" id="253">
-        <title>Certifikáty Trusted Certificate Service</title>
-      </bookmark>
-    </folder>
-  </folder>
   <folder id="164">
     <title>3D tisk</title>
     <bookmark href="https://www.printables.com/model/441100-honeycomb-honeycomb-storage-wall/files" id="177">
@@ -4124,66 +4184,6 @@
   <bookmark href="https://github.com/gnuton/asuswrt-merlin.ng/releases" id="410">
     <title>Releases · gnuton/asuswrt-merlin.ng</title>
   </bookmark>
-  <folder id="411">
-    <title>Nečum sem</title>
-    <bookmark href="https://www.ssp.sh/brain/managing-my-business-with-obsidian/" id="448">
-      <title>Managing My Business with Obsidian (CRM)</title>
-    </bookmark>
-    <bookmark href="https://kisk.phil.muni.cz/onlife/temata/prace-s-dokumenty/rychle-cteni" id="449">
-      <title>Rychlé čtení | ONLIFE</title>
-    </bookmark>
-    <bookmark href="https://www.todoist.com/cs/productivity-methods" id="450">
-      <title>[Kvíz] Která produktivní metoda je pro vás ta pravá? Doporučíme vám ji na míru.</title>
-    </bookmark>
-    <bookmark href="https://www.todoist.com/cs/channelpartners" id="451">
-      <title>Distribuční partneři | Todoist</title>
-    </bookmark>
-    <bookmark href="https://www.sync.com/affiliates/" id="452">
-      <title>Sync | Affiliate, Reseller and Referral Program</title>
-    </bookmark>
-    <folder id="453">
-      <title>Inzeráty na práci</title>
-      <bookmark href="https://www.jobs.cz/rpd/2000541244/?searchId=2b877ffe-b38a-4e74-8f01-1d395eeae547&amp;rps=233" id="509">
-        <title>IT specialista Junior – Jihočeské centrum kybernetické bezpečnosti, s.r.o.</title>
-      </bookmark>
-      <bookmark href="https://www.jobs.cz/rpd/2000541154/?searchId=2b877ffe-b38a-4e74-8f01-1d395eeae547&amp;rps=233" id="510">
-        <title>Architekt kybernetické bezpečnosti – Jihočeské centrum kybernetické bezpečnosti, s.r.o.</title>
-      </bookmark>
-      <bookmark href="https://partnersholdco.jobs.cz/detail-pozice?r=detail&amp;id=2000738260&amp;rps=77" id="511">
-        <title>Bankovní poradce - Partners Banka České Budějovice - Detail pozice | Partners Financial Services, a.s.</title>
-      </bookmark>
-      <bookmark href="https://kdejinde.jobs.cz/detail-pozice?r=detail&amp;id=2000749614&amp;rps=233&amp;impressionId=ebd79289-5f9b-4b27-afe1-785700e3a227#fms" id="512">
-        <title>Detail pozice | ...kde jinde.</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://course.elementsofai.com/cs/" id="454">
-      <title>Bezplatný online kurz - Elements of AI</title>
-    </bookmark>
-    <bookmark href="https://www.lucielenertova.cz/p/kolik-platim-za-ruzne-nastroje-gpt" id="455">
-      <title>Kolik platím za různé nástroje, GPT-4o, datové typy v Pythonu (květen 2024)</title>
-    </bookmark>
-    <bookmark href="https://liberapay.com/" id="456">
-      <title>Liberapay</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=cBm95iCcX2E" id="457">
-      <title>Most USEFUL Obsidian Plugins I Actually Use - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=z4AbijUCoKU" id="655">
-      <title>Give Me 15 Minutes. I&apos;ll Teach You 80% of Obsidian - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=pLQBZ1uYDac" id="656">
-      <title>Planning For 2023 Using Obsidian - YouTube</title>
-    </bookmark>
-    <bookmark href="https://vault.practicalpkm.com/" id="657">
-      <title>Starter Vault - Download Free</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=OqjmgyYvB8U" id="658">
-      <title>8 Obsidian Plugins That I Can&apos;t Live Without - YouTube</title>
-    </bookmark>
-    <bookmark href="https://dupe.cz/" id="659">
-      <title>Dupe - Filmy a Seriály Online</title>
-    </bookmark>
-  </folder>
   <bookmark href="https://forest-mt.seekrtech.com/" id="446">
     <title>Your Personal Flower - Find Your Forest Study Buddy</title>
   </bookmark>
