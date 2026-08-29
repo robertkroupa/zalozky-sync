@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8181: for Floccus bookmark sync browser extension -->
+<!--- highestId :8182: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -256,6 +256,9 @@
   </folder>
   <bookmark href="https://www.youtube.com/watch?v=3YUXk-nJVGU" id="8180">
     <title>Aktuálny stav vojnového konfliktu na Ukrajine 26.8.2026 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://community-scripts.org/scripts?q=OpenWrt&amp;preview=openwrt-vm" id="8182">
+    <title>All scripts | Proxmox VE Helper Scripts</title>
   </bookmark>
   <bookmark href="https://serialy.bombuj.si/serial/vymena-manzelek-2005-9x14" id="8181">
     <title>Zámena manželiek - Výměna manželek online seriál | bombuj</title>
