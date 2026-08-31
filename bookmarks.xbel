@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8184: for Floccus bookmark sync browser extension -->
+<!--- highestId :8185: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -254,6 +254,9 @@
       <title>ŘSD ČR - Silnice I/20 – Hněvkov - Sedlice - YouTube</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.youtube.com/watch?v=pnVpMFR5Y5Y" id="8185">
+    <title>How to Dual Boot MX Linux &amp; Windows 11 - YouTube</title>
+  </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=HHd6NsmGlX0" id="8184">
     <title>BENEKOV - Zatmelení hořáku - YouTube</title>
   </bookmark>
