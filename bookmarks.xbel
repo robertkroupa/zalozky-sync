@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8188: for Floccus bookmark sync browser extension -->
+<!--- highestId :8189: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -256,6 +256,9 @@
   </folder>
   <bookmark href="https://tvgo.t-mobile.cz/detail/program/152956231303283/?parentId=0&amp;isPlanned=false?player=true?player=true" id="8187">
     <title>MAGENTA TV</title>
+  </bookmark>
+  <bookmark href="https://x.com/Nicnevim11" id="8189">
+    <title>NIC NEVIM (@Nicnevim11) / X</title>
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=yjbVlqOaCeM" id="8188">
     <title>JAK ZBOHATNOUT OD NULY: „Nikdy nebyla větší příležitost než dnes“ – Nic Nevim</title>
