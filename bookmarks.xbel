@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8193: for Floccus bookmark sync browser extension -->
+<!--- highestId :8194: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -254,6 +254,9 @@
       <title>ŘSD ČR - Silnice I/20 – Hněvkov - Sedlice - YouTube</title>
     </bookmark>
   </folder>
+  <bookmark href="https://elearning.jcu.cz/local/semester_overview/index.php?semesters_to_print[2026_ZS]=1" id="8194">
+    <title>Moje studované kurzy | JU</title>
+  </bookmark>
   <bookmark href="https://tvgo.t-mobile.cz/detail/program/152956231303283/?parentId=0&amp;isPlanned=false?player=true?player=true" id="8187">
     <title>MAGENTA TV</title>
   </bookmark>
