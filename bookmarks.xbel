@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8197: for Floccus bookmark sync browser extension -->
+<!--- highestId :8198: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -254,6 +254,9 @@
       <title>ŘSD ČR - Silnice I/20 – Hněvkov - Sedlice - YouTube</title>
     </bookmark>
   </folder>
+  <bookmark href="https://serialy.bombuj.si/serial/vymena-manzelek-2005-10x13#" id="8198">
+    <title>Zámena manželiek - Výměna manželek online seriál | bombuj</title>
+  </bookmark>
   <bookmark href="https://www.swissbit.com/en/products/where-to-buy?productGroup=Security" id="8197">
     <title>Where to Buy Our Storage and Security Products | Swissbit</title>
   </bookmark>
