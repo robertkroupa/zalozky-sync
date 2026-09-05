@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8200: for Floccus bookmark sync browser extension -->
+<!--- highestId :8201: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -250,6 +250,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=Q7oApks7g6Y" id="8200">
     <title>Zaměstnejte AI agenta. Ukážu vám jak! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=h71gj8HsEw4" id="8201">
+    <title>Nejlepší AI agent, jakého dneska můžeš mít. A je zadarmo</title>
   </bookmark>
   <folder id="11">
     <title>Stáhnout</title>
