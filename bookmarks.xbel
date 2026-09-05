@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8198: for Floccus bookmark sync browser extension -->
+<!--- highestId :8199: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -245,6 +245,9 @@
       <title>Two Factor – WordPress plugin | WordPress.org</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.youtube.com/watch?v=5eBlDBD0nho" id="8199">
+    <title>AI agenti od nuly: Tohle potřebujete vědět - YouTube</title>
+  </bookmark>
   <folder id="11">
     <title>Stáhnout</title>
     <bookmark href="https://www.csfd.cz/film/1206342-nevyhlasena-valka/prehled/" id="37">
