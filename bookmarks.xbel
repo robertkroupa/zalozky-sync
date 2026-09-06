@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8203: for Floccus bookmark sync browser extension -->
+<!--- highestId :8204: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -247,6 +247,9 @@
   </folder>
   <bookmark href="https://www.youtube.com/watch?v=G7QrOE4fJ6Q" id="8202">
     <title>Jak na AI na vašem počítači - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=5DL0Wgwco3g" id="8204">
+    <title>Claude vs ChatGPT vs Gemini: Které AI si zaslouží tvých 500 Kč měsíčně? - YouTube</title>
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=xaPe9u2j4W0" id="8203">
     <title>ARC Raider Best Graphics Settings to Boost FPS and Improve Visibility! - YouTube</title>
