@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8205: for Floccus bookmark sync browser extension -->
+<!--- highestId :8210: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -228,6 +228,9 @@
     </bookmark>
     <bookmark href="https://krouparobert.quickconnect.to/https_first" id="61">
       <title>Access via Synology</title>
+    </bookmark>
+    <bookmark href="https://10.0.0.253:8443/index.asp" id="8206">
+      <title>Bezdrátový router ASUS TUF-AX3000 V2 - Mapa sítě</title>
     </bookmark>
   </folder>
   <folder id="44">
@@ -24494,6 +24497,18 @@
   <bookmark href="https://serialy.bombuj.si/serial/vymena-manzelek-2005-8x7" id="8168">
     <title>Zámena manželiek - Výměna manželek online seriál | bombuj</title>
   </bookmark>
+  <bookmark href="https://serialy.bombuj.si/serial/vymena-manzelek-2005-10x1" id="8207">
+    <title>Zámena manželiek - Výměna manželek online seriál | bombuj</title>
+  </bookmark>
+  <bookmark href="https://www.ikea.com/cz/cs/search/?q=istad" id="8208">
+    <title>Vyhledat „istad“ - IKEA</title>
+  </bookmark>
+  <bookmark href="https://www.alza.cz/auto/meyle-1123200003-pro-vozy-audimercedes-benzseatskodavw-d6182612.htm#reviews" id="8209">
+    <title>MEYLE 1123200003 pro vozy AUDI;MERCEDES-BENZ;SEAT;SKODA;VW za 226 Kč - Kabinový filtr | Alza.cz</title>
+  </bookmark>
+  <folder id="8210">
+    <title>Finance</title>
+  </folder>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
