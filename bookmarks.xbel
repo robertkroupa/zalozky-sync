@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8210: for Floccus bookmark sync browser extension -->
+<!--- highestId :8211: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -247,6 +247,9 @@
   </folder>
   <bookmark href="https://www.youtube.com/watch?v=G7QrOE4fJ6Q" id="8202">
     <title>Jak na AI na vašem počítači - YouTube</title>
+  </bookmark>
+  <bookmark href="https://aiwinners.cz/masterclass/zaznam/?utm_source=smartemailing&amp;utm_medium=email&amp;utm_campaign=masterclass-0926-A&amp;utm_content=a3_patek_odpoledne&amp;__se_s=e7f5a928913a4aab96e203c95bfd0316&amp;__se_t=n" id="8211">
+    <title>Záznam masterclass: Váš počítač ožívá | AI Winners</title>
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=ZSX-zANgZZI" id="8205">
     <title>Jak používat CLAUDE AI krok za krokem (návod pro začátečníky) - YouTube</title>
