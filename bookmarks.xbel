@@ -17,12 +17,12 @@
   <bookmark href="http://keep.new/" id="2632">
     <title>Keep new</title>
   </bookmark>
-</folder>
-<folder id="2">
-  <title>Other Bookmarks</title>
   <bookmark href="https://ticktick.com/signin" id="6">
     <title>T</title>
   </bookmark>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
   <bookmark href="chrome://bookmarks/" id="5">
     <title>Záložky</title>
   </bookmark>
