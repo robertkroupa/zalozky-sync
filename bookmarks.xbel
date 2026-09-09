@@ -8,6 +8,15 @@
 </folder>
 <folder id="1">
   <title>Bookmarks Bar</title>
+  <bookmark href="https://gmail.com/" id="1673">
+    <title>Mail</title>
+  </bookmark>
+  <bookmark href="https://keep.google.com/u/0/" id="24">
+    <title>K</title>
+  </bookmark>
+  <bookmark href="http://keep.new/" id="2632">
+    <title>Keep new</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
@@ -5135,9 +5144,6 @@
       </bookmark>
       <bookmark href="chrome://newtab/" id="2631">
         <title>Nová karta</title>
-      </bookmark>
-      <bookmark href="http://keep.new/" id="2632">
-        <title>Keep new</title>
       </bookmark>
       <bookmark href="https://python.cz/zacatecnici/#onlineumim" id="2663">
         <title>Pro začátečníky - Python v ČR</title>
@@ -17862,9 +17868,6 @@
     <title>Importované (1)</title>
     <folder id="1660">
       <title>Lišta záložek</title>
-      <bookmark href="https://gmail.com/" id="1673">
-        <title>Mail</title>
-      </bookmark>
     </folder>
     <folder id="1661">
       <title>Studium</title>
@@ -21071,9 +21074,6 @@
       </folder>
     </folder>
   </folder>
-  <bookmark href="https://keep.google.com/u/0/#NOTE/19BrwpdBDfgYY5ZxIb4BanOeL8gdklKfP0C2pmuH66yaobreANfonMyntIJO_iA" id="1725">
-    <title>Google Keep</title>
-  </bookmark>
   <bookmark href="https://www.make.com/en/partners-directory?languages=Czech" id="1726">
     <title>Our Partners | Find A Partner To Support Your Business Needs | Make</title>
   </bookmark>
@@ -21096,9 +21096,6 @@
     <title>K&gt;&gt;</title>
     <bookmark href="https://tasks.google.com/tasks/" id="16">
       <title>Ú</title>
-    </bookmark>
-    <bookmark href="https://keep.google.com/u/0/" id="24">
-      <title>K</title>
     </bookmark>
     <folder id="8161">
       <title>E-maily</title>
