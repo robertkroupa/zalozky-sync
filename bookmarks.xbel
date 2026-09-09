@@ -8,6 +8,9 @@
 </folder>
 <folder id="1">
   <title>Bookmarks Bar</title>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
   <bookmark href="https://ticktick.com/signin" id="6">
     <title>T</title>
   </bookmark>
@@ -1888,6 +1891,9 @@
                     <title>Výprodej skladových zásob</title>
                   </bookmark>
                 </folder>
+                <bookmark href="https://medium.com/illumination/how-i-cured-30-years-of-knee-pain-in-30-days-with-one-simple-exercise-bda975db8fcc" id="1458">
+                  <title>How I Cured 30 Years of Knee Pain (in 30 Days) With One Simple Exercise | by Hudson Rennie | ILLUMINATION | Medium</title>
+                </bookmark>
               </folder>
               <folder id="641">
                 <title>Akupresura</title>
@@ -2354,9 +2360,6 @@
             </bookmark>
             <folder id="1451">
               <title>Cvičení 24</title>
-              <bookmark href="https://medium.com/illumination/how-i-cured-30-years-of-knee-pain-in-30-days-with-one-simple-exercise-bda975db8fcc" id="1458">
-                <title>How I Cured 30 Years of Knee Pain (in 30 Days) With One Simple Exercise | by Hudson Rennie | ILLUMINATION | Medium</title>
-              </bookmark>
             </folder>
           </folder>
         </folder>
@@ -21173,9 +21176,6 @@
   <bookmark href="https://www.ikea.com/cz/cs/search/?q=istad" id="8208">
     <title>Vyhledat „istad“ - IKEA</title>
   </bookmark>
-</folder>
-<folder id="2">
-  <title>Other Bookmarks</title>
 </folder>
 <folder id="3">
   <title>Mobilní záložky</title>
