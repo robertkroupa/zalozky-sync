@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8218: for Floccus bookmark sync browser extension -->
+<!--- highestId :8237: for Floccus bookmark sync browser extension -->
 
 <folder id="8166">
   <title>Bookmarks Menu</title>
@@ -9,6 +9,9 @@
 <folder id="1">
   <title>Bookmarks Bar</title>
   <bookmark href="https://gmail.com/" id="1673">
+    <title>Mail</title>
+  </bookmark>
+  <bookmark href="https://gmail.com/" id="8222">
     <title>Mail</title>
   </bookmark>
   <bookmark href="https://keep.google.com/u/0/" id="24">
@@ -221,13 +224,13 @@
       <title>Two Factor – WordPress plugin | WordPress.org</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.scribd.com/document/704195994/English-File-4th-Edition-Elementary-Students-Book" id="8213">
+  <bookmark href="https://www.scribd.com/document/704195994/English-File-4th-Edition-Elementary-Students-Book" id="8219">
     <title>English File 4th Edition Elementary Students Book | PDF</title>
   </bookmark>
-  <bookmark href="https://fliphtml5.com/zalzf/hely/English_File_4th_Edition_Elementary_-_Students_Book/" id="8212">
+  <bookmark href="https://fliphtml5.com/zalzf/hely/English_File_4th_Edition_Elementary_-_Students_Book/" id="8220">
     <title>English File 4th Edition Elementary - Students Book - Flipbook by Марина | FlipHTML5</title>
   </bookmark>
-  <bookmark href="https://aiwinners.cz/masterclass/zaznam/?utm_source=smartemailing&amp;utm_medium=email&amp;utm_campaign=masterclass-0926-A&amp;utm_content=a3_patek_odpoledne&amp;__se_s=e7f5a928913a4aab96e203c95bfd0316&amp;__se_t=n" id="8211">
+  <bookmark href="https://aiwinners.cz/masterclass/zaznam/?utm_source=smartemailing&amp;utm_medium=email&amp;utm_campaign=masterclass-0926-A&amp;utm_content=a3_patek_odpoledne&amp;__se_s=e7f5a928913a4aab96e203c95bfd0316&amp;__se_t=n" id="8221">
     <title>Záznam masterclass: Váš počítač ožívá | AI Winners</title>
   </bookmark>
   <folder id="11">
@@ -1846,6 +1849,33 @@
                 <bookmark href="https://www.gymguider.com/look-after-your-spine-and-help-relieve-lower-back-pain-with-this-4-move-back-workout/" id="635">
                   <title>Do You Need Help To Look After Your Spine? Relieve Lower Back Pain With This 4-Move Back Workout - GymGuider.com</title>
                 </bookmark>
+                <bookmark href="http://fityou.cz/motivacni-citaty/" id="8223">
+                  <title>Motivační citáty - fitness, cvičení a hubnutí | FitYOU.cz</title>
+                </bookmark>
+                <bookmark href="https://medium.com/illumination/how-i-cured-30-years-of-knee-pain-in-30-days-with-one-simple-exercise-bda975db8fcc" id="1458">
+                  <title>How I Cured 30 Years of Knee Pain (in 30 Days) With One Simple Exercise | by Hudson Rennie | ILLUMINATION | Medium</title>
+                </bookmark>
+                <bookmark href="https://www.kb5.cz/2017/04/nejnebezpecnejsi-fraze-kazdem-fitku/" id="8224">
+                  <title>Nejnebezpečnější fráze v každém fitku je... - KB5</title>
+                </bookmark>
+                <bookmark href="https://www.kb5.cz/2018/10/sloni-drepy-lepsi-nakopavac-nez-kafe-nebo-red-bull/" id="8225">
+                  <title>“Sloní dřepy”: Lepší nakopávač než kafe nebo Red Bull - KB5</title>
+                </bookmark>
+                <bookmark href="https://www.kb5.cz/2011/08/drepy-s-vlastni-vahou/" id="8226">
+                  <title>Dřepy s vlastní vahou - KB5</title>
+                </bookmark>
+                <bookmark href="https://www.kb5.cz/2015/05/skola-sily-5-strecink-3-top-cviky-pro-zdravi-vetsi-silu-a-lepsi-vykony-video/" id="8227">
+                  <title>Škola síly (5): Strečink - 3 top cviky pro zdraví, větší sílu a lepší výkony [video] - KB5</title>
+                </bookmark>
+                <bookmark href="https://aktin.cz/rust-svalu-nebo-sily-zvolte-spravny-pocet-opakovani-v-serii" id="8228">
+                  <title>Jak zvolit správný počet opakování v sérii při cvičení? | Aktin</title>
+                </bookmark>
+                <bookmark href="https://gymbeam.cz/blog/12-cviku-s-vlastni-vahou-ktere-vas-dostanou-do-formy/" id="8229">
+                  <title>12 cviků s vlastní váhou, které vás dostanou do formy</title>
+                </bookmark>
+                <bookmark href="https://www.gymguider.com/look-after-your-spine-and-help-relieve-lower-back-pain-with-this-4-move-back-workout/" id="8230">
+                  <title>Do You Need Help To Look After Your Spine? Relieve Lower Back Pain With This 4-Move Back Workout - GymGuider.com</title>
+                </bookmark>
                 <folder id="645">
                   <title>Fitness</title>
                   <bookmark href="http://www.fitness.cz/gainery-nad-2500g/biotech-mega-gainer-3100-sejkr-biotech-s19889362" id="684">
@@ -1878,8 +1908,26 @@
                   <bookmark href="http://obchod.ronnie.cz/vyprodej" id="739">
                     <title>Výprodej skladových zásob</title>
                   </bookmark>
+                  <bookmark href="http://www.zdravotnipotreby.cz/rehabilitacni-pomucky/podlozka-cocka-na-sezeni-a-balancni-cviceni/" id="8232">
+                    <title>Podložka čočka na sezení a balanční cvičení | zdravotnipotreby.cz</title>
+                  </bookmark>
+                  <bookmark href="http://www.4fitness.cz/suroviny/calcium-bioaktivni-p-366/" id="8233">
+                    <title>Calcium Magnézium 2:1 - bioaktivní | Vápník Hořčík | 4fitness.cz</title>
+                  </bookmark>
+                  <bookmark href="http://www.kulturistika.net/doplnky-vyzivy-pro-rust-svalu-proteinovy-koncentrat" id="8234">
+                    <title>Doplňky výživy pro růst svalů – proteinový koncentrát | kulturistika.net</title>
+                  </bookmark>
+                  <bookmark href="http://www.kulturistika.net/doplnky-vyzivy-pro-rust-svalu-sacharidovy-koncentrat" id="8235">
+                    <title>Doplňky výživy pro růst svalů – sacharidový koncentrát | kulturistika.net</title>
+                  </bookmark>
+                  <bookmark href="http://www.hojda.cz/fitness/nejcastejsi-svalove-dysbalance-u-bezne-populace-III.php" id="8236">
+                    <title>Nejčastější svalové dysbalance u běžné populace - III. část</title>
+                  </bookmark>
+                  <bookmark href="http://obchod.ronnie.cz/vyprodej" id="8237">
+                    <title>Výprodej skladových zásob</title>
+                  </bookmark>
                 </folder>
-                <bookmark href="https://medium.com/illumination/how-i-cured-30-years-of-knee-pain-in-30-days-with-one-simple-exercise-bda975db8fcc" id="1458">
+                <bookmark href="https://medium.com/illumination/how-i-cured-30-years-of-knee-pain-in-30-days-with-one-simple-exercise-bda975db8fcc" id="8231">
                   <title>How I Cured 30 Years of Knee Pain (in 30 Days) With One Simple Exercise | by Hudson Rennie | ILLUMINATION | Medium</title>
                 </bookmark>
               </folder>
