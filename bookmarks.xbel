@@ -82,63 +82,6 @@
   </bookmark>
   <folder id="8239">
     <title>01</title>
-    <bookmark href="https://www.ssp.sh/brain/managing-my-business-with-obsidian/" id="8244">
-      <title>Managing My Business with Obsidian (CRM)</title>
-    </bookmark>
-    <bookmark href="https://kisk.phil.muni.cz/onlife/temata/prace-s-dokumenty/rychle-cteni" id="8245">
-      <title>Rychlé čtení | ONLIFE</title>
-    </bookmark>
-    <bookmark href="https://www.todoist.com/cs/productivity-methods" id="8246">
-      <title>[Kvíz] Která produktivní metoda je pro vás ta pravá? Doporučíme vám ji na míru.</title>
-    </bookmark>
-    <bookmark href="https://www.todoist.com/cs/channelpartners" id="8247">
-      <title>Distribuční partneři | Todoist</title>
-    </bookmark>
-    <bookmark href="https://www.sync.com/affiliates/" id="8248">
-      <title>Sync | Affiliate, Reseller and Referral Program</title>
-    </bookmark>
-    <folder id="8249">
-      <title>Inzeráty na práci</title>
-      <bookmark href="https://www.jobs.cz/rpd/2000541244/?searchId=2b877ffe-b38a-4e74-8f01-1d395eeae547&amp;rps=233" id="8266">
-        <title>IT specialista Junior – Jihočeské centrum kybernetické bezpečnosti, s.r.o.</title>
-      </bookmark>
-      <bookmark href="https://www.jobs.cz/rpd/2000541154/?searchId=2b877ffe-b38a-4e74-8f01-1d395eeae547&amp;rps=233" id="8267">
-        <title>Architekt kybernetické bezpečnosti – Jihočeské centrum kybernetické bezpečnosti, s.r.o.</title>
-      </bookmark>
-      <bookmark href="https://partnersholdco.jobs.cz/detail-pozice?r=detail&amp;id=2000738260&amp;rps=77" id="8268">
-        <title>Bankovní poradce - Partners Banka České Budějovice - Detail pozice | Partners Financial Services, a.s.</title>
-      </bookmark>
-      <bookmark href="https://kdejinde.jobs.cz/detail-pozice?r=detail&amp;id=2000749614&amp;rps=233&amp;impressionId=ebd79289-5f9b-4b27-afe1-785700e3a227#fms" id="8269">
-        <title>Detail pozice | ...kde jinde.</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://course.elementsofai.com/cs/" id="8250">
-      <title>Bezplatný online kurz - Elements of AI</title>
-    </bookmark>
-    <bookmark href="https://www.lucielenertova.cz/p/kolik-platim-za-ruzne-nastroje-gpt" id="8251">
-      <title>Kolik platím za různé nástroje, GPT-4o, datové typy v Pythonu (květen 2024)</title>
-    </bookmark>
-    <bookmark href="https://liberapay.com/" id="8252">
-      <title>Liberapay</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=cBm95iCcX2E" id="8253">
-      <title>Most USEFUL Obsidian Plugins I Actually Use - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=z4AbijUCoKU" id="8271">
-      <title>Give Me 15 Minutes. I&apos;ll Teach You 80% of Obsidian - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=pLQBZ1uYDac" id="8272">
-      <title>Planning For 2023 Using Obsidian - YouTube</title>
-    </bookmark>
-    <bookmark href="https://vault.practicalpkm.com/" id="8273">
-      <title>Starter Vault - Download Free</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=OqjmgyYvB8U" id="8274">
-      <title>8 Obsidian Plugins That I Can&apos;t Live Without - YouTube</title>
-    </bookmark>
-    <bookmark href="https://dupe.cz/" id="8275">
-      <title>Dupe - Filmy a Seriály Online</title>
-    </bookmark>
   </folder>
   <folder id="8240">
     <title>Kyber</title>
@@ -24709,6 +24652,63 @@
         <title>Články a zdroje</title>
       </folder>
     </folder>
+  </folder>
+  <bookmark href="https://www.ssp.sh/brain/managing-my-business-with-obsidian/" id="8244">
+    <title>Managing My Business with Obsidian (CRM)</title>
+  </bookmark>
+  <bookmark href="https://kisk.phil.muni.cz/onlife/temata/prace-s-dokumenty/rychle-cteni" id="8245">
+    <title>Rychlé čtení | ONLIFE</title>
+  </bookmark>
+  <bookmark href="https://www.todoist.com/cs/productivity-methods" id="8246">
+    <title>[Kvíz] Která produktivní metoda je pro vás ta pravá? Doporučíme vám ji na míru.</title>
+  </bookmark>
+  <bookmark href="https://www.todoist.com/cs/channelpartners" id="8247">
+    <title>Distribuční partneři | Todoist</title>
+  </bookmark>
+  <bookmark href="https://www.sync.com/affiliates/" id="8248">
+    <title>Sync | Affiliate, Reseller and Referral Program</title>
+  </bookmark>
+  <bookmark href="https://course.elementsofai.com/cs/" id="8250">
+    <title>Bezplatný online kurz - Elements of AI</title>
+  </bookmark>
+  <bookmark href="https://www.lucielenertova.cz/p/kolik-platim-za-ruzne-nastroje-gpt" id="8251">
+    <title>Kolik platím za různé nástroje, GPT-4o, datové typy v Pythonu (květen 2024)</title>
+  </bookmark>
+  <bookmark href="https://liberapay.com/" id="8252">
+    <title>Liberapay</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=cBm95iCcX2E" id="8253">
+    <title>Most USEFUL Obsidian Plugins I Actually Use - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=z4AbijUCoKU" id="8271">
+    <title>Give Me 15 Minutes. I&apos;ll Teach You 80% of Obsidian - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=pLQBZ1uYDac" id="8272">
+    <title>Planning For 2023 Using Obsidian - YouTube</title>
+  </bookmark>
+  <bookmark href="https://vault.practicalpkm.com/" id="8273">
+    <title>Starter Vault - Download Free</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=OqjmgyYvB8U" id="8274">
+    <title>8 Obsidian Plugins That I Can&apos;t Live Without - YouTube</title>
+  </bookmark>
+  <bookmark href="https://dupe.cz/" id="8275">
+    <title>Dupe - Filmy a Seriály Online</title>
+  </bookmark>
+  <folder id="8249">
+    <title>Inzeráty na práci</title>
+    <bookmark href="https://www.jobs.cz/rpd/2000541244/?searchId=2b877ffe-b38a-4e74-8f01-1d395eeae547&amp;rps=233" id="8266">
+      <title>IT specialista Junior – Jihočeské centrum kybernetické bezpečnosti, s.r.o.</title>
+    </bookmark>
+    <bookmark href="https://www.jobs.cz/rpd/2000541154/?searchId=2b877ffe-b38a-4e74-8f01-1d395eeae547&amp;rps=233" id="8267">
+      <title>Architekt kybernetické bezpečnosti – Jihočeské centrum kybernetické bezpečnosti, s.r.o.</title>
+    </bookmark>
+    <bookmark href="https://partnersholdco.jobs.cz/detail-pozice?r=detail&amp;id=2000738260&amp;rps=77" id="8268">
+      <title>Bankovní poradce - Partners Banka České Budějovice - Detail pozice | Partners Financial Services, a.s.</title>
+    </bookmark>
+    <bookmark href="https://kdejinde.jobs.cz/detail-pozice?r=detail&amp;id=2000749614&amp;rps=233&amp;impressionId=ebd79289-5f9b-4b27-afe1-785700e3a227#fms" id="8269">
+      <title>Detail pozice | ...kde jinde.</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="3">
