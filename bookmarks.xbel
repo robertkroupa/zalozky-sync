@@ -80,9 +80,6 @@
   <bookmark href="chrome://bookmarks/" id="5">
     <title>Záložky</title>
   </bookmark>
-  <folder id="8239">
-    <title>01</title>
-  </folder>
   <folder id="8240">
     <title>Kyber</title>
     <bookmark href="https://www.youtube.com/watch?v=TXakYE7jarg" id="8254">
@@ -24449,43 +24446,25 @@
   <bookmark href="https://aiwinners.cz/masterclass/zaznam/?utm_source=smartemailing&amp;utm_medium=email&amp;utm_campaign=masterclass-0926-A&amp;utm_content=a3_patek_odpoledne&amp;__se_s=e7f5a928913a4aab96e203c95bfd0316&amp;__se_t=n" id="16380">
     <title>Záznam masterclass: Váš počítač ožívá | AI Winners</title>
   </bookmark>
-  <folder id="16381">
-    <title>Domény 2026</title>
-  </folder>
   <folder id="16382">
     <title>Vzdělávání</title>
     <folder id="16383">
       <title>Škola</title>
-      <folder id="16384">
-        <title>Předměty</title>
-      </folder>
       <folder id="16385">
         <title>BP</title>
         <folder id="16387">
           <title>BP (EF) rozt</title>
           <folder id="16390">
             <title>Osobní rozvoj a vzdělání</title>
-            <folder id="16393">
-              <title>Zdraví a recepty</title>
-            </folder>
           </folder>
         </folder>
       </folder>
       <folder id="16386">
         <title>Škola EF - Archiv</title>
-        <folder id="16388">
-          <title>COBP - OBJEKTOVÉ PROGRAMOVÁNÍ</title>
-        </folder>
         <folder id="16389">
           <title>Škola - Archiv - ROZT</title>
-          <folder id="16391">
-            <title>Předměty</title>
-          </folder>
           <folder id="16392">
             <title>Předměty (Archiv)</title>
-            <folder id="16394">
-              <title>QZBOT</title>
-            </folder>
           </folder>
         </folder>
       </folder>
@@ -24493,24 +24472,12 @@
   </folder>
   <folder id="16395">
     <title>Studium</title>
-    <folder id="16396">
-      <title>Předměty</title>
-    </folder>
-    <folder id="16397">
-      <title>Škola EF - Archiv</title>
-    </folder>
     <folder id="16398">
       <title>Škola - Archiv</title>
       <folder id="16399">
         <title>Škola - Archiv - ROZT</title>
-        <folder id="16400">
-          <title>Předměty</title>
-        </folder>
       </folder>
     </folder>
-  </folder>
-  <folder id="16401">
-    <title>JU University</title>
   </folder>
   <folder id="16402">
     <title>Importované</title>
@@ -24518,64 +24485,19 @@
       <title>Netříděné záložky</title>
       <folder id="16408">
         <title>Soukromé</title>
-        <folder id="16420">
-          <title>Zájmy a koníčky</title>
-        </folder>
       </folder>
       <folder id="16409">
         <title>IT</title>
-        <folder id="16421">
-          <title>Affil</title>
-        </folder>
       </folder>
-    </folder>
-    <folder id="16404">
-      <title>Podnik 2025</title>
     </folder>
     <folder id="16405">
       <title>IT</title>
       <folder id="16410">
         <title>TVORBA WEBŮ</title>
-        <folder id="16422">
-          <title>NÁSTROJE PRO WEBY</title>
-        </folder>
-        <folder id="16423">
-          <title>Moje weby</title>
-        </folder>
-        <folder id="16424">
-          <title>Hostingy</title>
-        </folder>
-      </folder>
-      <folder id="16411">
-        <title>Výdělek</title>
-      </folder>
-      <folder id="16412">
-        <title>Podnikání ostatní</title>
-      </folder>
-      <folder id="16413">
-        <title>Projekty</title>
       </folder>
       <folder id="16414">
         <title>Podnikání</title>
-        <folder id="16425">
-          <title>Promo</title>
-        </folder>
-        <folder id="16426">
-          <title>Výdělek</title>
-        </folder>
       </folder>
-      <folder id="16415">
-        <title>Programování</title>
-      </folder>
-      <folder id="16416">
-        <title>Blogy</title>
-      </folder>
-      <folder id="16417">
-        <title>Advert</title>
-      </folder>
-    </folder>
-    <folder id="16406">
-      <title>FINANCE</title>
     </folder>
     <folder id="16407">
       <title>Soukromé</title>
@@ -24587,9 +24509,6 @@
             <title>Zvěř</title>
             <folder id="16431">
               <title>Myslivost</title>
-              <folder id="16432">
-                <title>Zviřata</title>
-              </folder>
             </folder>
           </folder>
         </folder>
@@ -24598,9 +24517,6 @@
         <title>Myslivost</title>
         <folder id="16428">
           <title>Myslivost</title>
-          <folder id="16430">
-            <title>Myslivost</title>
-          </folder>
         </folder>
       </folder>
     </folder>
@@ -24613,9 +24529,6 @@
         <title>Předměty</title>
         <folder id="16438">
           <title>Škola EF - Archiv</title>
-          <folder id="16440">
-            <title>Škola - Archiv - ROZT</title>
-          </folder>
         </folder>
       </folder>
     </folder>
@@ -24625,21 +24538,6 @@
         <title>Netříděné záložky</title>
         <folder id="16439">
           <title>IT</title>
-          <folder id="16441">
-            <title>3D tisk</title>
-          </folder>
-          <folder id="16442">
-            <title>TVORBA WEBŮ</title>
-          </folder>
-          <folder id="16443">
-            <title>E-maily</title>
-          </folder>
-          <folder id="16444">
-            <title>PROGRAMOVÁNÍ</title>
-          </folder>
-          <folder id="16445">
-            <title>Tvorba webu</title>
-          </folder>
         </folder>
       </folder>
     </folder>
@@ -24648,9 +24546,6 @@
     <title>Netříděné záložky</title>
     <folder id="16447">
       <title>IT</title>
-      <folder id="16448">
-        <title>Články a zdroje</title>
-      </folder>
     </folder>
   </folder>
   <bookmark href="https://www.ssp.sh/brain/managing-my-business-with-obsidian/" id="8244">
