@@ -20,6 +20,9 @@
   <bookmark href="https://ticktick.com/signin" id="6">
     <title>T</title>
   </bookmark>
+  <bookmark href="https://claude.ai/projects" id="8552">
+    <title>Claude</title>
+  </bookmark>
   <folder id="8">
     <title>Síť doma</title>
     <bookmark href="http://10.0.0.101/" id="26">
@@ -828,9 +831,6 @@
     </bookmark>
     <bookmark href="https://www.marigold.cz/item/video-claude-code-pro-zacatecniky/" id="8551">
       <title>🎥 Video: Začínáme s Claude Code | Marigold.cz - Sítě a Technologie</title>
-    </bookmark>
-    <bookmark href="https://claude.ai/projects" id="8552">
-      <title>Claude</title>
     </bookmark>
     <bookmark href="https://www.zerogpt.com/" id="8554">
       <title>AI Detector - Trusted AI Checker for ChatGPT, GPT4 &amp; Gemini</title>
@@ -21042,9 +21042,6 @@
     </folder>
     <folder id="16358">
       <title>AI</title>
-      <bookmark href="https://claude.ai/" id="16369">
-        <title>Claude</title>
-      </bookmark>
       <bookmark href="https://gemini.google.com/gem/1ee023596250/dfadf1d146970044" id="16370">
         <title>Gemini</title>
       </bookmark>
